@@ -1,4 +1,6 @@
-## Hello Broh, I'm Fattah 👋
+## Hello Broh👋, I'm Fattah Newbie Cyber Security and Developer form Indonesia
+
+![Mario Contribution Graph](https://raw.githubusercontent.com/thevandal14/thevandal14/output/mario-contribution-graph.svg)
 
 <!--
 **thevandal14/thevandal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
