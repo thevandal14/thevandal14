@@ -146,7 +146,7 @@ function makeSVG(days, user) {
       calcMode="linear" />
 
     <!-- simple jump animation: animate 'y' of marioSprite using values. We synthesize jumps at indices -->
-    <animateTransform xlink:href="#marioSprite" attributeName="transform"
+    <animateTransform href="#marioSprite" attributeName="transform"
       attributeType="XML"
       type="translate"
       dur="${totalDuration}s"
