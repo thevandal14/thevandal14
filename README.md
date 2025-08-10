@@ -2,6 +2,12 @@
 
 ![Mario Contribution Graph](https://raw.githubusercontent.com/thevandal14/thevandal14/output/mario-contribution-graph.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thevandal14/thevandal14/output/mario-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thevandal14/thevandal14/output/mario-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thevandal14/thevandal14/output/mario-contribution-graph.svg">
+</picture>
+
 <!--
 **thevandal14/thevandal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
